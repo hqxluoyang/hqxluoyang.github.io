@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.29dc9d836e6f2cc6d7817b4ba2b3fa72.js"
+  "precache-manifest.4fc485cbc2556095fb40bea7f24ad307.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "sanyuan_edite_topo"});
