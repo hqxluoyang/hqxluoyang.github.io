@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb4079c3e330c830ac19",
+    "revision": "216bcd801e7d82876e3e",
     "url": "assets/css/about.css"
   },
   {
-    "revision": "c40e7d15a2d136c1958c",
+    "revision": "98834e4f23802b3ffc4c",
     "url": "assets/css/app.css"
   },
   {
@@ -20,11 +20,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/fonts/element-icons.woff"
   },
   {
-    "revision": "bb4079c3e330c830ac19",
+    "revision": "216bcd801e7d82876e3e",
     "url": "assets/js/about.js"
   },
   {
-    "revision": "c40e7d15a2d136c1958c",
+    "revision": "98834e4f23802b3ffc4c",
     "url": "assets/js/app.js"
   },
   {
