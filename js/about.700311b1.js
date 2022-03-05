@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkvideo_alarm_new"]=self["webpackChunkvideo_alarm_new"]||[]).push([[443],{4335:function(n,a,e){e.r(a),e.d(a,{default:function(){return d}});var r=e(3396);const u={class:"about"},t=(0,r._)("h1",null,"This is an about page",-1),s=[t];function i(n,a){return(0,r.wg)(),(0,r.iD)("div",u,s)}var c=e(89);const o={},l=(0,c.Z)(o,[["render",i]]);var d=l}}]);
